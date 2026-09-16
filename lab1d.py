@@ -15,12 +15,17 @@
 
 #TO-DO 2:
 # Create a variable called "words".
+
 # The value of words should be "The quick brown fox jumps over the lazy dog".
 # Use indexing to return the first and 17th charecters of "words" to the user.
-
+words= "the quick brown fox jumps over the lazy dog" 
+print(words[0])
+print(words[16])
 #TO-DO 3:
 # Use negative indexing to return the words "jumps" and "quick" from "words" to the user.
-
+slice1= words [-23:-18]
+print(slice1)
+slice2=words []
 #TO-DO 4:
 # Use slicing to retun everything between index 2-15 to the user.
 # Print "uick brown foxs ju" from "words".

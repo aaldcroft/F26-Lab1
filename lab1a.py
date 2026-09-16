@@ -1,8 +1,8 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author: Abby Aldcroft
+# Date: 09/16/2026
 # Purpose: Create a variable, check its type and print the variable.
 # Usage: python3 lab1a.py
 
