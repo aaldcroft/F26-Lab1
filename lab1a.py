@@ -27,4 +27,4 @@ print(type(x))
 # What did you observe?
 x="My name is Abby"
 print(type(x))
-#I observed that the type of x changed from int to string due to dynamic typing
+#I observed that the data type of x changed from int to string due to dynamic typing. 
