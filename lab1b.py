@@ -8,10 +8,10 @@
 
 # TO-DO 1:
 #	Create a variable called "num1", take its value from user.
-num1=input("Please enter a number for num1")
+num1=input("Please enter a number for num1 ")
 
 #	Create another variable called "num2" and take its value from user. 
-num2=input("Please enter another number for num2")
+num2=input("Please enter another number for num2 ")
 print(type(num1))
 print(type(num2))
 

@@ -25,6 +25,6 @@ print(type(x))
 # TO DO 4: Dynamic Typing: 
 # Now reassign a new value to the variable `x`, this value should be a string, e.g "hello", check the type of the variable `x` again.
 # What did you observe?
-x="My name is Abby"
+x = "My name is Abby"
 print(type(x))
 #I observed that the data type of x changed from int to string due to dynamic typing. 

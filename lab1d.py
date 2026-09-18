@@ -44,3 +44,5 @@ print(slice3)
 
 slice4 = words[5:23]
 print(slice4)
+#I was a little confused about this one, so I printed both 
+# index 2-15 prints "e quick brown f" and index 5-23 prints "quick brown foxs ju"
